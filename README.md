@@ -13,7 +13,8 @@ Upc
 Star Rating
 Ram
 Analysis Steps
-                                    Understand the Data
+
+Understand the Data
 1. Data Cleaning
 Identify and handle missing values.
 Check for duplicates and remove if necessary.
